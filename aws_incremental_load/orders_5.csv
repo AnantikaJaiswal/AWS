@@ -1,0 +1,4 @@
+Row ID	Order ID	Order Date	Ship Date	Ship Mode	Customer ID	Customer Name	Segment	Country	City	State	Postal Code	Region	Product ID	Category	Sub-Category	Product Name	Sales	Quantity	Discount	Profit
+3396	US-2017-148362	07-01-2017	07-08-2017	Standard Class	KF-16285	Karen Ferguson	Home Office	United States	Indianapolis	Indiana	46203	Central	OFF-ST-10001128	Office Supplies	Storage	Carina Mini System Audio Rack, Model AR050B	443.92	4	0	13.3176
+3397	US-2017-148362	07-01-2017	07-08-2017	Standard Class	KF-16285	Karen Ferguson	Home Office	United States	Indianapolis	Indiana	46203	Central	OFF-BI-10003656	Office Supplies	Binders	Fellowes PB200 Plastic Comb Binding Machine	169.99	1	0	78.1954
+3398	US-2017-148362	07-01-2017	07-08-2017	Standard Class	KF-16285	Karen Ferguson	Home Office	United States	Indianapolis	Indiana	46203	Central	OFF-PA-10003441	Office Supplies	Paper	Xerox 226	25.92	4	0	12.4416

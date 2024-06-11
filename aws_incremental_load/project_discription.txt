@@ -1,0 +1,11 @@
+step1 : Login using IAM User.
+
+step2 : Created AWS S3 Bucket and created a folder on daily basis by name snapshot='date' and loaded data incremetally.
+
+step3 : Crated AWS Glue crawler to crawl all new sub folders in S3 folder. After running crawler it will store meta data in table and file information in partition.
+Partition will be created on daily basis with date name fetched from snapshot folder name.Also,given IAM role in order to run crawler.
+
+step 4 : Query data using athena and stored logs in S3 logs folder.Till now data isn't stored any where but athena is reading data from S3 file through data catalog.
+
+step 5: Connected with Amazon Quicksight and linked s3 athena logs path to desiign visualization.
+ 
